@@ -1,6 +1,8 @@
 //An array comprising of fruit names is given to you.
 // The addFruit and displayFruits function is already done for you.
 let fruits = ["Apple", "Banana", "Mango", "Pineapple", "Orange"];
+fruits=pop(5);
+console.log()
 
 // function displayFruits() will display the list of fruits in an HTML <ul> element. 
 // This function will update the list dynamically whenever changes are made.
